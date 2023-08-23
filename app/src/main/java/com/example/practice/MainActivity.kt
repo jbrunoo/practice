@@ -36,6 +36,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
     Text(text = "antlin kotlin")
+
+    Text(text = "hi kotilin")
 }
 
 @Preview(showBackground = true)
